@@ -1,1 +1,0 @@
-java -cp src:lib/clojure.jar clojure.main main.clj

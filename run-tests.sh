@@ -1,1 +1,0 @@
-java -cp src:test:lib/clojure.jar:lib/clojure-contrib.jar clojure.main run-tests.clj
